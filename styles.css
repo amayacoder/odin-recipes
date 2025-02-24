@@ -1,0 +1,53 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+.intro {
+    font-size: large;
+}
+
+.description {
+    text-indent: 20px;
+}
+
+p,
+ul {
+    font-size: medium;
+}
+
+ul {
+    padding: auto;
+    line-height: 2.0;
+}
+
+.recipe-select {
+    font-weight: 700;
+}
+
+ol {
+    line-height: 1.5;
+}
+
+.home {
+    background-color: rgb(14, 182, 126);
+    color: white;
+    font-weight: bold;
+    padding: auto;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
